@@ -23,6 +23,7 @@ header-img: "img/Olin Library.jpg"
     <p>研究兴趣主要集中于Hodge theory，也许有一天会学习number theory， geometric representation theory吧。</p>
     <p>天性冷漠，不善交际。喜怒无常。面对自己很欣赏的人的时候，会变成舔狗，所以很不招人喜欢。</p>
     <p>看过柯南，火影，目前在看海贼王。虽然剧情有点拖沓，但自信比尾田年轻，咱们耗得起，会在有生之年看到大结局的。</p>
+    <p>偶尔会做一点饭，特别是大肉菜，虽然算不上精致，所幸不挑食，倒也有一种简单的快乐。可惜这种快乐也许不会持续太久了，因为胖</p>
     <p>不喜欢旅游，不想冷冰冰的看着别人快乐的样子。却莫名其妙的去了不少地方。常常因为可爱的小动物而欣喜万分。也会因为吃可爱的小动物而欣喜万分。真是一个反复无常的坏蛋啊</p>
     <p>想撸猫却不喜欢养猫，想养花却怕养不活。想打球又没走位，想跑步但是肺功能太弱。可以说是悲惨了。</p>
     <p></p>
@@ -98,51 +99,4 @@ header-img: "img/Olin Library.jpg"
     _render();
 </script>
 
-
-<!-- Gitalk 评论 start  -->
-{% if site.gitalk.enable %}
-<!-- Gitalk link  -->
-<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
-
-<div id="gitalk-container"></div>
-    <script type="text/javascript">
-    var gitalk = new Gitalk({
-    clientID: '{{site.gitalk.clientID}}',
-    clientSecret: '{{site.gitalk.clientSecret}}',
-    repo: '{{site.gitalk.repo}}',
-    owner: '{{site.gitalk.owner}}',
-    admin: ['{{site.gitalk.admin}}'],
-    distractionFreeMode: {{site.gitalk.distractionFreeMode}},
-    id: 'about',
-    });
-    gitalk.render('gitalk-container');
-</script>
-{% endif %}
-<!-- Gitalk end -->
-
- <!-- disqus 评论框 start  -->
-{% if site.disqus.enable %}
-
-<div class="comment">
-    <div id="disqus_thread" class="disqus-thread">
-    </div>
-</div>
-<!-- disqus 评论框 end -->
-
-<!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = "{{site.disqus.username}}";
-    var disqus_identifier = "{{site.disqus.username}}/{{page.url}}";
-    var disqus_url = "{{site.url}}{{page.url}}";
-
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<!-- disqus 公共JS代码 end -->
-{% endif %}
 
