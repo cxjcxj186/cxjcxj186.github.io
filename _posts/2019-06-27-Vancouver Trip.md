@@ -1,17 +1,19 @@
 ---
 layout:     post
-title:      5分钟带你看完 WWDC 2018
-subtitle:   WWDC 2018 Keynote 全记录
-date:       2018-06-05
-author:     BY
+title:      Vancouver Trip
+subtitle:   温哥华旅游记录
+date:       2019-06-27
+author:     无敌小呆呆
 header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
-    - iOS
+    - 旅游
 ---
 
 ## 前言
 
+
+Let $X$ be a $\mathbb{C}$
 一年一度的 WWDC（苹果全球开发者大会）于北京时间 6月5日 凌晨1点开幕。废话不多说，来看看这次WWDC 都有哪些亮点吧!
 
 
