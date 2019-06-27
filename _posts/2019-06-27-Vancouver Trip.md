@@ -14,4 +14,4 @@ tags:
 
 记录
 
-![](img/Vancouver 1.jpg)
+![](https://ws3.sinaimg.cn/large/006tNc79gy1fj9xhjzobbj30yg0my75z.jpg)
