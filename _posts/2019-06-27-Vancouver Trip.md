@@ -29,8 +29,8 @@ UBC的标志，大喷泉。
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Vancouver%206.jpg)
 唐人街不解释。
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Vancouver%207.jpg)
-某个路口看到的地球仪。接着傍晚的光亮，很有感觉
+某个路口看到的地球仪。借着傍晚的光亮，很有感觉
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Vancouver%208.jpg)
-某个路口。当时已经是当地时间九点多了，天微微暗下来而已。
+某个路口。当时已经是当地时间九点多了，天色只是微微暗下来而已。
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Vancouver%209.jpg)
 一路上买的纪念品。明信片大多都已经寄出去了，唯有一张是原本给一个人指定的，最终却是寄不出去了。
