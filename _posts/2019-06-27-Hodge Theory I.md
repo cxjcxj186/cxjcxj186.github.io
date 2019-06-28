@@ -26,11 +26,12 @@ We want to compare the cohomology of a k$\ddot{a}$hler manifold $X$ and its codi
 
 $$\cdots H^k(X,\mathbb{Z})\to H^k(U,\mathbb{Z})\to H^{k-1}(Y,\mathbb{Z})\to H^{k+1}(X,\mathbb{Z})\cdots.$$
 
-Remark 01:
+**Remark 01:**
+
 There are two interpretations of this long exact sequence:
 
-(1).\textit{Topological Interpretation}The long exact sequence associated to the pair $(X,U)$, where $U=X-Y$. Thom isomorphism.
-(2).\textit{de Rham interpretation}$H^k(U,\mathbb{C})$ can be computed as the \textit{hypercohomology} of $\Omega^\cdot(\log Y)$. Residue map and Gysin morphism.
+(1).*Topological Interpretation*The long exact sequence associated to the pair $(X,U)$, where $U=X-Y$. Thom isomorphism.
+(2).*de Rham interpretation*$H^k(U,\mathbb{C})$ can be computed as the *textit{hypercohomology* of $\Omega^\cdot(\log Y)$. Residue map and Gysin morphism.
 
 The residue map is defined as a sheaf complex map: $\Omega_X^\cdot(\log Y)\to\Omega^{\cdot-1}_Y$. This map induces a morphism of \textit{hypercohomology} of the sheaves, i,e,. $H^\cdot(U,\mathbb{C})\to H^{\cdot-1}(Y,\mathbb{C})$.
 
@@ -40,9 +41,9 @@ The typical cases are:
 
 2.$X$ is the projective space $\mathbb{P}^N$, $Y$ is a hypersurface of degree $d$. Part of its cohomology can be deduced from the Lefschetz theorem on hyperplane sections (P.35). The nontrivial term can be computed as residues of homogeneous quotient (P.166. Corollary 6.12).
 
+**Remark 02：**
 The study of codimension $1$ geometry is roughly the study of line bundles. Classical line bundles are: the canonical bundle $K_X$; the line bundle $\mathcal{O}_{X}(D)$ associated to a divisor $D$; the twisted bundle $\mathcal{O}_X(k)$ for a projective manifold.
-\end{remark}
 
-The simplest examples of deformations are: projective morphism (projective bundles); Legendre family of elliptic curves; universal hyperplane sections (hypersurfaces) associated to a projective variety $X$ (line bundle over $X$). The interesting point is that: let  $\phi:X\to Y$ be a deformation with k\"{a}hler fibers, then the algebraic objects on fibers becomes analytic objects over $Y$, therefore, infinitesimal study is possible. Examples are Kadaira-Spencer map; Hodge bundles, Griffiths transversality, and infinitesimal variation of Hodge structure (which should, at least, be linear); Jacobian filtration and normal functions; Hodge loci.
+The simplest examples of deformations are: projective morphism (projective bundles); Legendre family of elliptic curves; universal hyperplane sections (hypersurfaces) associated to a projective variety $X$ (line bundle over $X$). The interesting point is that: let  $\phi:X\to Y$ be a deformation with k\ddot{a}hler fibers, then the algebraic objects on fibers becomes analytic objects over $Y$, therefore, infinitesimal study is possible. Examples are Kadaira-Spencer map; Hodge bundles, Griffiths transversality, and infinitesimal variation of Hodge structure (which should, at least, be linear); Jacobian filtration and normal functions; Hodge loci.
 
 Leray spectral sequence plays an important role in this case because it decomposes the study of $X$ into the base part $Y$ and the relative part (fiber part) $X/Y$. Actually, Hodge bundles and Griffiths transversality have pure algebraic interpretation. This interpretation makes it possible to study deformation theory algebraically.
