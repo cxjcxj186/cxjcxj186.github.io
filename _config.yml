@@ -9,6 +9,8 @@ url: "http://cxjcxj186.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/cxjcxj186/cxjcxj186.github.io.git" # you code repository
 
+markdown:kramdown
+
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "格物致知  诚意正心"
