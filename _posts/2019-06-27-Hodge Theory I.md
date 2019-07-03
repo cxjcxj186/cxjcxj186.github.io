@@ -4,7 +4,7 @@ title:      Review on Hodge Theory I
 subtitle:   VHS, monodromy, and topology
 date:       2019-06-27
 author:     无敌小呆呆
-header-img: img/Brookings Hall.jpg
+header-img: img/Olin Library.jpg
 catalog: true
 tags:
     - Geometry
