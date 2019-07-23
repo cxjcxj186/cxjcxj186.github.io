@@ -2,9 +2,9 @@
 layout:     post
 title:      Notre Dame Trip
 subtitle:   圣母大学暑期学校
-date:       2018-06-05
-author:     BY
-header-img: img/post-bg-cook.jpg
+date:       2019-07-23
+author:     无敌小呆呆
+header-img: img/Notre Dame.jpg
 catalog: true
 tags:
     - iOS
@@ -20,10 +20,11 @@ tags:
 
 
 
-![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Notre%20Dame%201.jpg)
+![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Notre%20Dame%202.jpg)
 
 
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Notre%20Dame%203.jpg)
+
 一个很好玩的雕像。一个朋友说，可以做成表情包，就写“戳楼上的PP”。。。
 
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Notre%20Dame%204.jpg)
