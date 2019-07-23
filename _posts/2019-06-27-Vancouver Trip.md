@@ -20,8 +20,6 @@ tags:
 飞机上拍到的云彩。远处有一架飞机，茫茫天空中，也算是缘分了。
 
 
-![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Vancouver%2012.jpg)
-温哥华机场的一角。
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Vancouver%202.jpg)
 UBC最西边的位置，远处的山应该是温哥华岛。
 
