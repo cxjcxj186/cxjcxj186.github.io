@@ -18,6 +18,10 @@ tags:
 
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Vancouver%201.jpg)
 飞机上拍到的云彩。远处有一架飞机，茫茫天空中，也算是缘分了。
+
+
+![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Vancouver%2012.jpg)
+温哥华机场的一角。
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Vancouver%202.jpg)
 UBC最西边的位置，远处的山应该是温哥华岛。
 
@@ -27,6 +31,10 @@ UBC的标志，大喷泉。
 去市中心路上路过的一个小港。
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Vancouver%205.jpg)
 街上看到的坦克，当时是有点懵逼的。。
+
+![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Vancouver%2010.jpg)
+街上的鸽子，看起来就会很舒服。
+
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Vancouver%206.jpg)
 唐人街不解释。
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Vancouver%207.jpg)
@@ -35,3 +43,7 @@ UBC的标志，大喷泉。
 某个路口。当时已经是当地时间九点多了，天色只是微微暗下来而已。
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Vancouver%209.jpg)
 一路上买的纪念品。明信片大多都已经寄出去了，唯有一张是原本给一个人指定的，最终却是寄不出去了。
+
+![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Vancouver%2011.jpg)
+最后，这个是某校内餐馆的牌子。文科生真可怕。。。
+
