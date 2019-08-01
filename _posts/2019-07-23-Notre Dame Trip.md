@@ -37,11 +37,18 @@ tags:
 
 PhDucks。
 
+![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Notre%20Dame%2012.jpg)
+![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Notre%20Dame%2013.jpg)
+有一只漂亮的大狗子，它的名字叫做Luna。
 
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Notre%20Dame%206.jpg)
 
 第一个周末的聚餐。
 
+![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Notre%20Dame%2010.jpg)
+合影，将哥在球的后边，举着球的阿姨是项目的组织者。
+![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Notre%20Dame%2011.jpg)
+合影之二。
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Notre%20Dame%207.jpg)
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Notre%20Dame%208.jpg)
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Notre%20Dame%209.jpg)
