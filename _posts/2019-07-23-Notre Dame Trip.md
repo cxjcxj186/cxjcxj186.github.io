@@ -29,9 +29,7 @@ tags:
 
 一个很好玩的雕像。一个朋友说，可以做成表情包，就写“戳楼上的PP”。。。
 
-![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Notre%20Dame%204.jpg)
 
-数学系。
 
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Notre%20Dame%205.jpg)
 
