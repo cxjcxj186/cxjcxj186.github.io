@@ -16,7 +16,7 @@ tags:
 
 ## Mechanics
 
-The mechanics statue of a particle is determined by its position and velocity. Thus a function L(q,\dot{q},t) is enough to derive mechanics principles. The actual mechanics happens when the action $S[L]$ takes its extreme. This derives the Euler-Lagrange equation. In certain cases, it is the motion equation for a particle or a system. It is a system of $s$ second-order equations.
+The mechanics statue of a particle is determined by its position and velocity. Thus a function $L(q,\dot{q},t)$ is enough to derive mechanics principles. The actual mechanics happens when the action $S[L]$ takes its extreme. This derives the Euler-Lagrange equation. In certain cases, it is the motion equation for a particle or a system. It is a system of $s$ second-order equations.
 
 To derive the Lagrangian for a system, we use the symmetry of the space-time. In practice, just apply the canonical Lagrangian and make a change of variable. Note that for a system, $L=\sum \frac{1}{2}m_\alpha v_\alpha^2-U$, while the energy is $E=\sum \frac{1}{2}m_\alpha v_\alpha^2 +U$.
 
