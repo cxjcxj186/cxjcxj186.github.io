@@ -34,6 +34,8 @@ The Science Center
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Harvard%207.jpg)
 
 恰巧碰到那天 Harvard 校内又活动，所以其实还挺热闹。
+
+![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Harvard%209.jpg)
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Harvard%208.jpg)
 
 ## 后记
