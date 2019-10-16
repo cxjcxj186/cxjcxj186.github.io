@@ -20,7 +20,7 @@ Harvard当然是漂亮的。
 哈佛远景。拍摄于路上，隔着 Charles River。
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Harvard 1.jpg)
 
-哈佛商学院一角：“Our Obligations to our country never cease but with our lives.” 来自于 John Admas 的文字
+哈佛商学院一角：“Our Obligations to our country never cease but with our lives.” 来自于 John Adams 的文字
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Harvard 3.jpg)
 
 The Science Center
