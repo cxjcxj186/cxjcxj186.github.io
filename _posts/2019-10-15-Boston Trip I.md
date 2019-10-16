@@ -4,7 +4,7 @@ title:      Boston Trip I
 subtitle:   Boston Harbor, Boston Common
 date:       2019-10-15
 author:     无敌小呆呆
-header-img: img/post-bg-cook.jpg
+header-img: img/Boston.jpg
 catalog: true
 tags:
     - 旅游
