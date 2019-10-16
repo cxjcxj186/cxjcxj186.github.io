@@ -15,26 +15,26 @@ Harvard当然是漂亮的。
 
 
 先来一张漂亮的哈佛商学院图书馆。
-![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Harvard 2.jpg)
+![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Harvard%202.jpg)
 
 哈佛远景。拍摄于路上，隔着 Charles River。
-![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Harvard 1.jpg)
+![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Harvard%201.jpg)
 
 哈佛商学院一角：“Our Obligations to our country never cease but with our lives.” 来自于 John Adams 的文字
-![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Harvard 3.jpg)
+![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Harvard%203.jpg)
 
 The Science Center
-![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Harvard 4.jpg)
+![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Harvard%204.jpg)
 
 再来几张校内的偶遇
-![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Harvard 5.jpg)
+![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Harvard%205.jpg)
 
-![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Harvard 6.jpg)
+![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Harvard%206.jpg)
 
-![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Harvard 7.jpg)
+![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Harvard%207.jpg)
 
 恰巧碰到那天 Harvard 校内又活动，所以其实还挺热闹。
-![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Harvard 8.jpg)
+![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Harvard%208.jpg)
 
 ## 后记
 
