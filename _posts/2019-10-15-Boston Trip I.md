@@ -16,7 +16,7 @@ tags:
 
 总体来说，波士顿可以给五星。有学校，有历史，有美食，有海有河有大鸟。
 
-波士顿似乎很喜欢穹顶结构， MIT， 市政大厅， QuincyMarket都是这样的结构。也许，解释成一个时代喜欢穹顶结构会好一些吧。
+波士顿似乎很喜欢穹顶结构， MIT， 市政大厅， Quincy Market都是这样的结构。也许，解释成一个时代喜欢穹顶结构会好一些吧。
 
 ## Boston Harbor
 
@@ -28,7 +28,7 @@ tags:
 
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Boston%205.jpg)
 
-这一只海鸥看起来很有感觉。特别是配上灰蒙蒙的天气，感觉很有一种孤傲的感觉。
+这一只海鸥看起来很有感觉。特别是配上灰蒙蒙的天气，很有一种孤傲的感觉。
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Boston%206.jpg)
 
 路上拍的，后来知道远处那个塔是 Quincy Market 附近的。
