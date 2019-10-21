@@ -24,7 +24,7 @@ tags:
 Great Dome 内部，对面是 Charles River
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/MIT%2013.jpg)
 
-数学系外景。数学系门前是一个广场，广场的一边是 Great Dome，另一边隔着马路是 Charles River，位置很好。 数学系是Building 2。也许我确实与 2 有缘吧
+数学系外景。数学系门前是一个广场，广场的一边是 Great Dome，另一边隔着马路是 Charles River，位置很好。 数学系是Building 2。
 
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/MIT%2011.jpg)
 数学系内景。
