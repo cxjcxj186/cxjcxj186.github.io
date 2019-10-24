@@ -29,7 +29,7 @@ Observables are operators, but not all operators are observables. At least, give
 
 The particle and wave properties are intrinsically inconsistant. That is the origin of quantum mechanics. In quantum mechanics, we replace the physical quantity by observables, therefore, certain physical quantities become quantized. 
 
-Neither a state nor an operator gives a concrete real number. To get a real number, we must use the pairing of two states. For example, the expectation of an observation $<v|H|v>$. Therefore, Schrodinger picture or Hisenburg picture (operators evolves with time) give the same evolution picture. Once we are trying to get any real number, anything that we can detect.
+Neither a state nor an operator gives a concrete real number. To get a real number, we must use the pairing of two states. For example, the expectation of an observation. Therefore, Schrodinger picture or Hisenburg picture (operators evolves with time) give the same evolution picture. Once we are trying to get any real number, anything that we can detect.
 
 In nonrelativistic quantum mechanics, time $t$ is an independent parameter, while the position is an operator. This is an intrinsic inconsistence with relativity. The Schrodinger is first order with respect to time, while second order with respect to spatial coordinates.
 
