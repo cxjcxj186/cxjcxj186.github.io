@@ -25,7 +25,7 @@ Then we have the canonical equations, which is a system of $2s$ first-order equa
 ## Electrodynamics
 ### Maxwell's Equations
 
-Gradient, curl, divergence, are normal exterier differential operators. $d^2=0$ gives two fundamental equations. However, in physics, we identify one forms and two forms since they are both $3$-vectors. The Helmholtz theorem asserts that, under some decaying conditions, div and curl of a field determine the field itself. The Maxwell's equations telly you the div and curl of electric and magnetic fields:
+Gradient, curl, divergence, are usual exterier differential operators. $d^2=0$ gives two fundamental equations. However, in physics, we identify one forms and two forms since they are both $3$-vectors. The Helmholtz theorem asserts that, under certain decaying conditions, div and curl of a field determine the field itself. The Maxwell's equations telly you the div and curl of electric and magnetic fields:
 
 $$\nabla\cdot E=\frac{1}{\epsilon_0}\rho; \nabla \cdot B=0;$$
 
