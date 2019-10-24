@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Physics Notes III
-subtitle:   Quantum Field Theory
+subtitle:   Quantum Field Theory and Particle Physics
 date:       2019-10-15
 author:     无敌小呆呆
 header-img: img/TheGreatDome.jpg
