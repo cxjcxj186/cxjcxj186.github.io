@@ -42,9 +42,10 @@ The essence of electrodynamics is the symmetry and asymmetry between electric an
 
 A static electric field is a div field, it has no curl. The curl part of a electric field in induced from the variation of a magnetic field. While a magnetic field has no div (the field are enclosed loops). The magnetic comes partly from the electric flow, partly from the variation of electric field.
 
-Another asymmetry is that, we have electrons, it creates electric fields, while the magnetic field comes essentially from the motion of electric objects, charge or field.
+Another asymmetry is that, we have electrons, it creates electric fields, while the magnetic field comes essentially from the motion of electric objects, charges or fields.
 
 
+### EM waves
 
 ## Relativity
 
