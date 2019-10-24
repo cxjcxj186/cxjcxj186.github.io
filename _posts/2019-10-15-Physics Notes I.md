@@ -50,6 +50,8 @@ Another asymmetry is that, we have electrons, it creates electric fields, while 
 
 The principle of relativity and finiteness of transition speed. Since the speed is finite, the space and time are there related. Time flows in different speed in different frames. The form $ds^2=\sum dx_i^2-c^2dt^2$ will be an invariant in this setting.
 
+### Minkowski geometry:
 
+The "spheres" in Minkowski are hyperboloids (one-sheeted, two sheeted or a cone). 
 
 
