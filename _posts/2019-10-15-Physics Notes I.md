@@ -28,9 +28,12 @@ Then we have the canonical equations, which is a system of $2s$ first-order equa
 Gradient, curl, divergence, are normal exterier differential operators. $d^2=0$ gives two fundamental equations. However, in physics, we identify one forms and two forms since they are both $3$-vectors. The Helmholtz theorem asserts that, under some decaying conditions, div and curl of a field determine the field itself. The Maxwell's equations telly you the div and curl of electric and magnetic fields:
 
 $$\nabla\cdot E=\frac{1}{\epsilon_0}\rho; \nabla \cdot B=0;$$
-$$\nabla\times\E=-\frac{\partial B}{\partial t}; \nabla\times B=\mu_0 J+\mu_0\epsilon_0\frac{\partial E}{\partial t}.$$
 
-where $\pho$ and $J$ are external conditions satisfying the continuity equation
+
+$$\nabla\times E=-\frac{\partial B}{\partial t}; \nabla\times B=\mu_0 J+\mu_0\epsilon_0\frac{\partial E}{\partial t}.$$
+
+where $\rho$ and $J$ are external conditions satisfying the continuity equation
+
 $$\frac{\partial \rho}{\partial t}=-\nabla\cdot J.$$
 
 What does the Maxwell's equation tell you?
