@@ -66,7 +66,7 @@ Another asymmetry is that, we have electrons, it creates electric fields, while 
 
 Electrodynamics is inherently consistent with special relativity.
  
-Electric and magnetic fields become a antisymmetric $2$-tensor $F^{\mu\nu}$ and its dual $G^{\mu\nu}$. $(\rho,J)$ becomes the current density $4$-vector. Maxwell's equations become
+Electric and magnetic fields become a antisymmetric $2$-tensor $F^{\mu\nu}$ and its dual $G^{\mu\nu}$ (Explicitly, this means that the amplitude of electric and magnetic fields are not invariant. They are intervined by the relative speed). $(\rho,J)$ becomes the current density $4$-vector. Maxwell's equations become
 
 $$\frac{\partial F^{\mu\nu}}{\partial x^{\nu}}=\mu_0J^{\mu};\frac{\partial G^{\mu\nu}}{\partial x^{\nu}}=0.$$
 
