@@ -22,6 +22,13 @@ Another way to study mechanics is, instead of considering $L$, we consider a fun
 $$H=\sum p_i\dot{q}_i-L$$
 Then we have the canonical equations, which is a system of $2s$ first-order equations.
 
+
+Geomrtric intepretation: 
+
+Given a machenical system, the generalized positions form a manifold $N$, $(x,v)$ is $TN$. COnsidering $m$ as a Riemannian metric, the relation $p=mv$ identifies $TN$ with $T^* N$. Therefore, the state space $(x,p)$, equipped with the canonical synmplectic form, is a symplectic manifold $X$.
+
+The Hamiltonian $H$ is a function on $X$. It generated a one-parameter flow $\Phi_t$. This $Phi_t$ tells you how the system evolves with a given state.  
+
 ## Relativity
 
 The principle of relativity and finiteness of transition speed. Since the speed is finite, the space and time are there related. Time flows in different speed in different frames. The form $ds^2=\sum dx_i^2-c^2dt^2$ will be an invariant in this setting.
@@ -31,9 +38,7 @@ Physical laws are suitable for any inertia frame. All inertia frames are equival
 
 Mechanics: The rest mass is an invariant quantity (same value in all inertia frames). The relativistic momentum becomes a 4-vector. 
 
-### Minkowski geometry:
-
-The "spheres" in Minkowski are hyperboloids (one-sheeted, two sheeted or a cone). 
+Minkowski geometry: The "spheres" in Minkowski are hyperboloids (one-sheeted, two sheeted or a cone). The geometry of Minkowski space (Lorentz group and its Lie algebra, orbits and invariant measures, covering of Lorentz group) is sketched in Folland's book: Quantum Field Theory: A Tourist Guide for Mathematicians.
 
 
 ## Electrodynamics
