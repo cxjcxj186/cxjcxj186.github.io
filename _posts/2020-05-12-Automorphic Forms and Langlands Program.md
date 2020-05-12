@@ -4,7 +4,7 @@ title:      Automorphic Forms and Langlands Program
 subtitle:   
 date:       2020-05-12
 author:     无敌小呆呆
-header-img: img/GreatDome.jpg
+header-img: img/TheGreatDome.jpg
 catalog: true
 tags:
     - math
