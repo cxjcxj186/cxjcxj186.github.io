@@ -30,7 +30,7 @@ Great Dome 内部，对面是 Charles River
 数学系内景。
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/MIT%207.jpg)
 
-数学系的休息室，相当于 WashU 的lounge
+数学系的休息室，相当于 WashU 的 lounge
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/MIT%2010.jpg)
 
 恽之玮的办公室
