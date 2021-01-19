@@ -14,6 +14,7 @@ tags:
 
 记录一下六月的圣母大学的旅程。6月2日出发，15日回到圣路易斯。
 
+University of Notre Dame. 那是一个很有宗教感的学校，那里的学习和生活都很不错，那里的鸭子很可爱，那里的松鼠有着超级大的尾巴，那里的一个饭店 Legends of Notre Dame 有很好吃的汉堡和三明治。在那里的半个月，我感受到了一种久违的充实，以及一种亢奋的感觉。到现在依然深深怀念在那里的生活。
 
 ![](https://github.com/cxjcxj186/MarkdownPhotos/raw/master/Res/Notre%20Dame%201.jpg)
 
