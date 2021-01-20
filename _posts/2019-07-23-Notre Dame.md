@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Notre Dame Trip
+title:      Notre Dame
 subtitle:   圣母大学暑期学校
 date:       2019-07-23
 author:     无敌小呆呆
