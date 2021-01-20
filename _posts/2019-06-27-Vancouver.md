@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Vancouver Trip
+title:      Vancouver
 subtitle:   温哥华旅游记录
 date:       2019-06-27
 author:     无敌小呆呆
