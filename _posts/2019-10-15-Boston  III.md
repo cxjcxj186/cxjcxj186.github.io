@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Boston Trip III
+title:      Boston  III
 subtitle:   Harvard
 date:       2019-10-15
 author:     无敌小呆呆
